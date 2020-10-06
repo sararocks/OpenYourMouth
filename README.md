@@ -9,9 +9,13 @@ Open Source Recipes from the Jupiter Broadcasting community
 
 It is recommended to name the file of your recipe with EveryFirstLetterCapitalized.md
 
+#### Hacktoberfest
+We welcome substantial PRs during Hacktoberfest! Add your mom's secret pumpkin pie recipe, or your uncle's fried Turkey method.
+This is a fork of [rikai/OpenYourMouth](https://github.com/rikai/OpenYourMouth), this fork's maintainer ([elementc](https://github.com/elementc)) will be submitting merged changes upstream to rikai's original repo at the end of Hacktoberfest- your commits will remain intact.
+
+elementc has volunteered to spend up to an hour a day reviewing PRs, your patience will be appreciated
+
 ### Recipe Template Example:
-
-
 
 # Title
 ## Description
