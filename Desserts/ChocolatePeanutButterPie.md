@@ -3,15 +3,15 @@
 ## A quick recipe to impress your friends and aquaintences but surprise it's actually super simple
 
 ### Ingredients 
-|Ingredients | Measurements | US |
-|:--- |:--- |:----|
-| Chocolate Pudding | | 1 standard box|
-| Chocolate Pie Crust | | 1 crust|
-| Peanut Butter | | 1/2 cup|
-| Heavy Whipping Cream | | 1.5 Cups |
-| Sugar | | 2 Tablespoons |
+|Ingredients | Measurements US |
+|:--- |:--- |
+| Chocolate Pudding |  1 standard box|
+| Chocolate Pie Crust |  1 crust|
+| Peanut Butter |  1/2 cup|
+| Heavy Whipping Cream |  1.5 Cups |
+| Sugar |  2 Tablespoons |
 | Salt | 1/4 tsp | 
-| Vanilla | | 1/4 tsp | 
+| Vanilla | 1/4 tsp | 
 | Oreos/generic chocolate cookie | 6 | 
 
 
